@@ -1,6 +1,14 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # Sample AEM project template
 
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
+
+## TAM Tools Features
+### SampleReplicationContentFilter
+* Demonstrated usage of implementing com.day.cq.replication.ReplicationContentFilter 
+* Use case: restrict replication/publishing of properties (ex. scenario use metadeta properties on author, but do not expose to publish instance)
+* OSGi Configuration available to set properties to be filtered
 
 ## Modules
 
