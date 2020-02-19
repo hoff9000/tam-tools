@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/tamtools2" mode="merge"/>
+    <filter root="/content/tamtools2" mode="merge"/>
+    <filter root="/content/dam/tamtools2" mode="merge"/>
+    <filter root="/content/experience-fragments/tamtools2" mode="merge"/>
+</workspaceFilter>
